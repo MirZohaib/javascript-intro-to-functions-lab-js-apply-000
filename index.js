@@ -20,9 +20,10 @@ function sayHiToGrandma(string)
 {
   var uppercase= "Hello!"
   var lowercase= "hello!"
- if (string.toLowerCase()===lowercase )
+ if { (string.toLowerCase()===lowercase )
   return "I can't hear you" ;
   else
+}
     if (string.toUpperCase()===uppercase)
       return "YES INDEED!";
       else
